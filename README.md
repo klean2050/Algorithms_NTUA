@@ -10,7 +10,7 @@ Assingments cover most of the classical algorithmic areas as well as modern appr
 ## Discrete Mathematics (2017)
 
 1. Set Theory, Mathematical Induction, Logic
-2. Graph Theory
+2. Graph Theory and Trees
 3. Combinatorics, Generating Functions
 
 ## Algorithms & Complexity (2018)
