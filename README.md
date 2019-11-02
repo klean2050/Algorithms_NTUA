@@ -7,8 +7,8 @@ Assingments cover most of the classical algorithmic areas as well as modern appr
 ## Algorithms & Complexity (2018)
 
 #### Analytical Assingments:
-* Assingment 1: O-Notation, Master Theorem, Sorting & Searching Algorithms
-* Assingment 2: Greedy Algorithms, Dynamic Programming
+1. O-Notation, Master Theorem, Sorting & Searching Algorithms
+2. Greedy Algorithms, Dynamic Programming
 * Assingment 3: Data Structures, Graphs, Trees
 * Assingment 4: Shortest Paths, Max-Flow, NP-Completeness
 
