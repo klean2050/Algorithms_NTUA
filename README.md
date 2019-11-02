@@ -1,8 +1,17 @@
-# Algorithms & Advanced Algorithms Assingments
+# Algorithmic Assingments
 
-This repository contains code files as well as PDF Reports for the 4 Analytical and 4 Programming Assingments of the ECE NTUA Course "Algorithms and Complexity", offered at 2018, as well as for the 3 Analytical Assingments of the ECE NTUA Course "Advanced Algorithms", offered at 2019.
+This repository contains code files and PDF Reports for:
+* 3 Analytical Assingments of the ECE NTUA Course "Discrete Mathematics", 2017
+* 4 Analytical and 4 Programming Assingments of the ECE NTUA Course "Algorithms and Complexity", 2018
+* 3 Analytical Assingments of the ECE NTUA Course "Advanced Algorithms", offered at 2019.
 
-Assingments cover most of the classical algorithmic areas as well as modern approaches, like: Data Structures and Trees, Greedy Algorithms, Dynamic Programming, Linear Programming, Approximation Algorithms and Randomized Algorithms. Assingments received competitve grades.
+Assingments cover most of the classical algorithmic areas as well as modern approaches, like: Data Structures, Graph Theory and Trees, Logic, Combinatorics, Greedy Algorithms, Dynamic Programming, Linear Programming, Approximation Algorithms and Randomized Algorithms. Assingments received competitve grades.
+
+## Discrete Mathematics (2017)
+
+1. Set Theory, Mathematical Induction, Logic
+2. Graph Theory
+3. Combinatorics, Generating Functions
 
 ## Algorithms & Complexity (2018)
 
