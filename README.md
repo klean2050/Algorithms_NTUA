@@ -9,17 +9,17 @@ Assingments cover most of the classical algorithmic areas as well as modern appr
 #### Analytical Assingments:
 1. O-Notation, Master Theorem, Sorting & Searching Algorithms
 2. Greedy Algorithms, Dynamic Programming
-* Assingment 3: Data Structures, Graphs, Trees
-* Assingment 4: Shortest Paths, Max-Flow, NP-Completeness
+3. Data Structures, Graphs, Trees
+4. Shortest Paths, Max-Flow, NP-Completeness
 
 #### Programming Assingments:
-* Assingment 1: Sorting & Searching Algorithms
-* Assingment 2: Greedy Algorithms, Dynamic Programming
-* Assingment 3: Graphs, Trees
-* Assingment 4: Shortest Paths, Max-Flow
+1. Sorting & Searching Algorithms
+2. Greedy Algorithms, Dynamic Programming
+3. Graphs, Trees
+4. Shortest Paths, Max-Flow
 
 ## Advanced Algorithms (2019)
 
-* Assingment 1: Approximation Algorithms, Linear Programming
-* Assingment 2: Randomized Algorithms, Mechanism Design
-* Assingment 3: Parametric Algorithms, Number Theory
+1. Approximation Algorithms, Linear Programming
+2. Randomized Algorithms, Mechanism Design
+3. Parametric Algorithms, Number Theory
