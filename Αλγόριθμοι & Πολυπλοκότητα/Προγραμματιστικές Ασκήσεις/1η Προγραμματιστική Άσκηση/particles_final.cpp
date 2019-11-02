@@ -115,7 +115,6 @@ int main()
 				flag = true;
 			}
 		}
-		// cleaning stacks
 		while (!Afronts.empty()) Afronts.pop();
 		while (!Bfronts.empty()) Bfronts.pop();
 	}	
